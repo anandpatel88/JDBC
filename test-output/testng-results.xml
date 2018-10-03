@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="697" started-at="2018-09-27T11:18:10Z" finished-at="2018-09-27T11:18:11Z">
+  <suite name="Default suite" duration-ms="722" started-at="2018-09-27T13:11:05Z" finished-at="2018-09-27T13:11:06Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="697" started-at="2018-09-27T11:18:10Z" finished-at="2018-09-27T11:18:11Z">
-      <class name="TestDatabase">
-        <test-method status="PASS" signature="dbConncetion()[pri:0, instance:TestDatabase@14acaea5]" name="dbConncetion" duration-ms="665" started-at="2018-09-27T11:18:10Z" finished-at="2018-09-27T11:18:11Z">
+    <test name="Default test" duration-ms="722" started-at="2018-09-27T13:11:05Z" finished-at="2018-09-27T13:11:06Z">
+      <class name="AllInOne">
+        <test-method status="PASS" signature="e2e()[pri:0, instance:AllInOne@14acaea5]" name="e2e" duration-ms="671" started-at="2018-09-27T13:11:05Z" finished-at="2018-09-27T13:11:06Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- dbConncetion -->
-      </class> <!-- TestDatabase -->
+        </test-method> <!-- e2e -->
+      </class> <!-- AllInOne -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
